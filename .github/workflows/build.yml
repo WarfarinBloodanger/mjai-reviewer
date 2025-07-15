@@ -33,4 +33,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: mjai-reviewer
-        path: mjai-reviewer/target/release/mjai-reviewer.exe
+        path: D:\a\mjai-reviewer\mjai-reviewer\target\release\mjai-reviewer.exe
